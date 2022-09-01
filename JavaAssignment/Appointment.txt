@@ -1,0 +1,3 @@
+studentId::roomId::issueType::other::data
+tpxxx::c-2-3::Other::bathRoom ::17/2/22
+uman::E-5-13::Refrigerator::nothing::14/1/22tp06::A-2-4::Fan::Nothing::18/2/2022::::washing machine::dfdfdfdfd::
